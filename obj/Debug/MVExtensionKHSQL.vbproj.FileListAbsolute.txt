@@ -1,0 +1,6 @@
+C:\Program Files\Microsoft Forefront Identity Manager\2010\Synchronization Service\Extensions\MVExtensionKHSQL.dll
+C:\Program Files\Microsoft Forefront Identity Manager\2010\Synchronization Service\Extensions\MVExtensionKHSQL.pdb
+C:\Projects\ECMA2\MVExtensionKHSQL\obj\Debug\MVExtensionKHSQL.vbproj.CoreCompileInputs.cache
+C:\Projects\ECMA2\MVExtensionKHSQL\obj\Debug\MVExtensionKHSQL.dll
+C:\Projects\ECMA2\MVExtensionKHSQL\obj\Debug\MVExtensionKHSQL.pdb
+C:\Projects\ECMA2\MVExtensionKHSQL\obj\Debug\MVExtensionKHSQL.vbproj.AssemblyReference.cache
